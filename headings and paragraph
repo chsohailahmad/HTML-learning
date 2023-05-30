@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heading & Paragraph</title>
+</head>
+<body>
+    <!-- different heading number from 1 to 6 specify tha size of a heading  -->
+    <h1>I am Sohail</h1>
+    <p>I am learning Web development.</p>
+    <h2>International Student</h2>
+    <p>I am studying abroad.</p>
+    <h3>Tough Life</h3>
+    <p>Life get pretty somtimes.</p>
+    <h4>Working</h4>
+    <p>I also have a part time job.</p>
+
+    <p>paragraphs are to write any simple text</p>
+    <!-- use pr*4 for 4 or more paragraphs  -->
+    <p></p>
+    <p></p>
+</body>
+</html>
