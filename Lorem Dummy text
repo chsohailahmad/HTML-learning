@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lorem</title>
+</head>
+
+<body>
+    <h4>Lorem</h4>
+    <p>Just for Dummy Text.</p>
+    <!-- Lorem4 or Lorem40 is for 4 or 40 words dummy text -->
+    Lorem ipsum dolor sit.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit libero reiciendis, et numquam deleniti vitae
+    modi in, odit at non ad, similique eaque corporis culpa. Beatae ipsa iste numquam unde debitis voluptatibus illum
+    sapiente animi. Eveniet, veritatis, corporis aliquam incidunt neque laudantium et suscipit placeat provident,
+    temporibus error ducimus iure!
+    <!-- use ctrl + enter to jump to a new line -->
+    <!-- use <hr> for a line -->
+    <hr>
+    <p>horizontal rule for line</p>
+    <!-- <br> to move in next line.  -->
+    <br>
+</body>
+
+</html>
